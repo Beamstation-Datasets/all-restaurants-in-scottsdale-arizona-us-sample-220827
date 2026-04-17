@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Scottsdale, Arizona with a population of over 241k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Scottsdale, Arizona, US",
+  "export_job_id": "eaaea1a0-79b6-432f-a744-553528864ae9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 220827,
+  "location_name": "Scottsdale",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-scottsdale-arizona-us-sample-220827",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/220827/beamstation_220827_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 100,
+  "sample_sha256": "c28eb20d0ab77bf3118e66b9b6bbde53fb2a1461c2e7beb2f8587b70bd21f797",
+  "sample_size_bytes": 397051,
+  "total_records": 1007,
+  "updated_at": "2026-04-14T18:45:30.548288+00:00"
+}
