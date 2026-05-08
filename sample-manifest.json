@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6d436e6c-ad46-4211-964f-d77e3c252179",
+  "export_job_id": "35916a92-b276-41a7-a0d3-a322d60f73f7",
   "id_short": 220827,
-  "published_at": "2026-04-29T07:26:54Z",
+  "published_at": "2026-05-08T07:03:49Z",
   "repo_name": "all-restaurants-in-scottsdale-arizona-us-sample-220827",
   "sample_asset_name": "beamstation_220827_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/220827/beamstation_220827_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 101,
-  "sample_sha256": "24820ba4107f204e562efa80a3527a82a9297871c14e0d7a7b5f8634db7da532",
-  "sample_size_bytes": 359258,
-  "total_records": 1011
+  "sample_records": 108,
+  "sample_sha256": "93db33a469b1fa8a1c0291d3e5a4b8ddeb8daf3bbb21d302541dfa0068e0d305",
+  "sample_size_bytes": 434982,
+  "total_records": 1088
 }
